@@ -5,7 +5,7 @@
 
 	<groupId>ch.hsr.whitespace</groupId>
 	<artifactId>fnf.simulib</artifactId>
-	<version>0.9.4</version>
+	<version>0.9.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Simulation Library</name>
@@ -14,7 +14,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:HSR-ChallP1-Whitespace/fnf.simulib.git</connection>
 		<url>https://github.com/HSR-ChallP1-Whitespace/fnf.simulib</url>
-		<tag>fnf.simulib-0.9.4</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
