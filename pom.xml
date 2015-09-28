@@ -14,8 +14,8 @@
 	<description>fnf racetrack simulator classes</description>
 
 	<scm>
-		<connection>scm:git:git@github.com:HSR-ChallP1-Whitespace/fnf.clientapi.git</connection>
-		<url>https://github.com/HSR-ChallP1-Whitespace/fnf.clientapi</url>
+		<connection>scm:git:git@github.com:HSR-ChallP1-Whitespace/fnf.simulib.git</connection>
+		<url>https://github.com/HSR-ChallP1-Whitespace/fnf.simulib</url>
 		<tag>HEAD</tag>
 	</scm>
 
