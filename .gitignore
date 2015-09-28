@@ -2,6 +2,15 @@
 *.class
 *.jar
 
+# Eclipse
+/target
+.settings
+.classpath
+.factorypath
+.project
+/Servers
+/.metadata
+
 # IntelliJ
 .idea/
 *.iml
